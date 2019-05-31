@@ -1,0 +1,29 @@
+.on{
+    background-color:rgba(176, 214, 141, 0.904);
+    font-style: initial;
+    font-size: 40px;
+    margin-left: 20px;
+    font-family: "Times New Roman", Times, serif;
+    border-radius: 50px;
+    
+}
+.off{
+    background-color: rgba(176, 214, 141, 0.904);
+    font-style: initial;
+    font-size: 40px;
+    margin-left: 40px;
+    font-family: "Times New Roman", Times, serif;
+    border-radius: 50px;
+}
+.blink{
+    background-color: rgba(176, 214, 141, 0.904);
+    font-style: initial;
+    font-size: 40px;
+    margin-left:60px;
+    font-family: "Times New Roman", Times, serif;
+    border-radius: 50px;
+}
+.message{
+    font-size: 50px;
+    font-family: "Times New Roman", Times, serif;
+}
